@@ -2,6 +2,10 @@
 
 By Shreesha
 
+Here's the Live Deployed Website of ![Project08Badge](https://img.shields.io/badge/Project-08-blue)
+
+## Project 08  [DEPLOYED LINK](https://project08-web-design-landing-page.netlify.app/)
+
 ![websiteSnap](./readmeImages/websiteSnap.png)
 
 # What did I learn in this project

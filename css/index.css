@@ -97,6 +97,56 @@ nav button{
     width: 100px;
 }
 
-@media (max-width : 1065px) {
-    
+@media  (max-width : 1068px) {
+    nav{
+        padding-left: 20px;
+        overflow-x: auto;
+    }
+
+    nav button{
+        padding: 10px 0px;
+        min-width: 100px;
+        margin-left: 40px;
+        margin-right: 20px;
+    }
+
+    .imgs-div img:nth-child(3){
+        display: block;
+        position: absolute;
+        left: -500px;
+        top: 100px;
+        width: 400px;
+        opacity: .2;
+        z-index: -1;
+    }
+
+    /* .left-section{
+        justify-content: center;
+        text-align: center;
+    } */
+
+    .intro-section h1{
+        justify-content: center;
+        font-size: 3rem;
+        color: #8448f5;
+    }
+
+    .left-section h4{
+        margin-top: 2rem;
+        font-size: 1.1rem;
+        line-height: 2rem;
+        color: #949496;
+    }
+
+    .left-section button{
+        margin-top: 2rem;
+        padding: 0.5rem 1.5rem;
+        border-radius: 30px;
+        color: #fff;
+        background: linear-gradient(to  right, #8448f5, #d37fbe);
+        font-weight: 900;
+        border: none;
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
 }

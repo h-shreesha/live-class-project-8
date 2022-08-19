@@ -17,4 +17,4 @@ Here's the Live Deployed Website of ![Project08Badge](https://img.shields.io/bad
 - Also learnt about linear gradient.
 - This website is also responsive.
 
-## Time taken to complete project is 4.5 hours
+## Time taken to complete project is 4 hours
